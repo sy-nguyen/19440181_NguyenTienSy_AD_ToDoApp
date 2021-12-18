@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407948966655",
+    "project_id": "nguyentiensytodoapp",
+    "storage_bucket": "nguyentiensytodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407948966655:android:5a7846a5025dcf3be6eaca",
+        "android_client_info": {
+          "package_name": "com.android.a19440181_nguyentiensy_ad_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407948966655-s9fcunr673t9r50c198ij09kfv99f7j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5T-lY2hbh03kRhwVq2lREjB7HuvERYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407948966655-s9fcunr673t9r50c198ij09kfv99f7j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
